@@ -123,15 +123,3 @@ You can deploy this app to the cloud with [Vercel](https://vercel.com?utm_source
 To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [import to Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example).
 
 **Important**: When you import your project on Vercel, make sure to click on **Environment Variables** and set them to match your `.env.local` file.
-
-#### Deploy from Our Template
-
-Alternatively, you can deploy using our template by clicking on the Deploy button below.
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-stripe-typescript&project-name=with-stripe-typescript&repository-name=with-stripe-typescript&env=NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY,STRIPE_SECRET_KEY&envDescription=Enter%20your%20Stripe%20Keys&envLink=https://github.com/vercel/next.js/tree/canary/examples/with-stripe-typescript%23required-configuration)
-
-## Authors
-
-- [@thorsten-stripe](https://twitter.com/thorwebdev)
-- [@lfades](https://twitter.com/luis_fades)
-- [@jsteele-stripe](https://twitter.com/ynnoj)
